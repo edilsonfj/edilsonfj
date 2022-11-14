@@ -2,7 +2,7 @@
   ### Desenvolvedor Júnior
 
 
-<div align="start" >
+<div align="start" style="display: inline_block" >
   <a href="https://github.com/edilsonfj">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=edilsonfj&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilsonfj&layout=compact&langs_count=7&theme=cobalt"/>
